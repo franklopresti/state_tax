@@ -69,3 +69,4 @@ ggplot(map_data, aes(long, lat, group = group, fill = tot_tax)) +
 
 ![image](https://github.com/user-attachments/assets/adfc5301-90ef-43bd-96f5-db8524c187ca)
 
+### divide tot_state tax by state_pop to control for pop size
