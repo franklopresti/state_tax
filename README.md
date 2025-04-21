@@ -1,4 +1,5 @@
 # state_tax
+### got this notice from Census & took a look for the Seminar....
 https://www.census.gov/programs-surveys/stc.html?utm_campaign=20250415pios1&utm_medium=email&utm_source=govdelivery
 2024 state taxes
 ## tot state tax 2024 
