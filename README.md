@@ -3,6 +3,9 @@
 https://www.census.gov/programs-surveys/stc.html?utm_campaign=20250415pios1&utm_medium=email&utm_source=govdelivery
 2024 state taxes
 ## tot state tax 2024 
+
+![image](https://github.com/user-attachments/assets/03f051e4-fa0e-486a-8de0-53a433117334)
+
 ```{r state tax stata file imported}
 # read in stata Tax dataset
 install.packages("readxl")
